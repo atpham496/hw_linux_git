@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Software engineering is fun!
 Cybersecurity is also fun!!
+
